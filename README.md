@@ -3,7 +3,7 @@
 </div>
 
 
- <h1>Rocket League Esports: Decoding Victory through Data Analytics</h1>
+ <h1 align  = "center">Rocket League Esports: Decoding Victory through Data Analytics</h1>
 
 The Data Analytics for Rocket League Esports project focuses on analyzing game data to help professional players improve their team's performance in the game of Rocket League. By gathering data from replay files of previous matches, the project provides valuable insights into various aspects of the game, including demolitions, ball possession, shots, goals, assists, and their impact on the overall match outcome.
 
